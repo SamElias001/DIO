@@ -3,7 +3,6 @@ class Hero {
         this.nome = nome
         this.idade = idade
         this.tipo = tipo
-        this.ataque = ["magia", "espada", "artes marciais", "shuriken"];
         this.definirAtaque()
     }
 
