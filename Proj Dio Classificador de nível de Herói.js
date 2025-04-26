@@ -35,3 +35,4 @@ switch (true) {
 }
 
 console.log("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivelHeroi)
+console.log("Teste de atualização")
